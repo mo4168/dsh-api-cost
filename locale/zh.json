@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API 花费",
+    "description": "按本机会话里的真实 token 用量估算 API 花费；支持自定义单价与倍率，适配大 API 下分发的子 API（中转站）。"
+  }
+}

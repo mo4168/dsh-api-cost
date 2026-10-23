@@ -1,0 +1,3 @@
+- insert:
+    - id: api-cost-meter
+      name: dsh-api-cost

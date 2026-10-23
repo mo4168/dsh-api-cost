@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API Spend",
+    "description": "Estimates API spend from this machine's real session token usage, with editable prices and a multiplier for relay / sub-API keys."
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="API spend meter">
+  <rect width="64" height="64" rx="14" fill="#0B1220"/>
+  <circle cx="30" cy="27" r="15" fill="none" stroke="#38BDF8" stroke-width="2.5"/>
+  <path d="M23 19.5 30 27l7-7.5" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 27v9.5" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M23.5 30.5h13M23.5 35h13" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/>
+  <polyline points="14,53 23,47 31,50 40,41 50,45" fill="none" stroke="#34D399" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="45" r="2.6" fill="#34D399"/>
+</svg>
